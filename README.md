@@ -2,4 +2,3 @@ hello-word
 ==========
 
 first
-second ！！！！
